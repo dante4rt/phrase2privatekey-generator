@@ -4,8 +4,6 @@ This is an automated bot for generating 12–24 phrases for a private key (BIP-3
 
 Example: <br>
 `Metamask > Trust Wallet` or `Keplr > Phantom Wallet`.
-
-<br>
 <h1>Tutorial</h1>
 <br>
 
