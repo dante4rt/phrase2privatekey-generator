@@ -11,7 +11,7 @@ Example: <br>
 
 First, you need to install this repo (you also need to have a NodeJS in your computer):
 ```
-git clone ...
+git clone https://github.com/dante4rt/phrase2privatekey-generator.git
 ```
 
 After that, go to the folder:
