@@ -6,7 +6,7 @@ This is an automated bot for generating 12–24 phrases for a private key (BIP-3
 <br>
 
 Example: <br>
-`Metamask > Trust Wallet` or `Keplr > Coinbase Wallet`.
+`Metamask > Trust Wallet` or `Keplr > Coinbase Wallet` (Not supported to Solana Wallet, yet).
 <h1>Tutorial</h1>
 <br>
 
