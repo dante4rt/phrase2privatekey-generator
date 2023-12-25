@@ -2,11 +2,8 @@
 
 ![Result v2](https://pouch.jumpshare.com/preview/jMjYtfKzWY3gg_bnX7qxxsTGL9Nwc1wrJ7dJb2dmfrOdNNCAkGx9c-7AbEKu3CPDUutaB4GL3w5oX5IXBXOzLrFbaVNiBsbtXx_4vAK1rNk)
 
-This is an automated bot for generating 12–24 phrases for a private key (BIP-39). So, you don't need to worry if you want to import your cryptocurrency wallet to another wallet. 
-<br>
+Automated bot for generating 12–24 phrases for a private key (BIP-39). No need to worry when importing your cryptocurrency wallet to another wallet, like switching from Metamask to Trust Wallet or Keplr to Coinbase Wallet.<br>
 
-Example: <br>
-`Metamask > Trust Wallet` or `Keplr > Coinbase Wallet`. <br><br>
 Note : <br>
 Not supported to Solana Wallet, yet.
 
